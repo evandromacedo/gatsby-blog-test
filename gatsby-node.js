@@ -39,6 +39,7 @@ exports.createPages = ({ graphql, actions }) => {
               background
               description
               title
+              image
             }
             timeToRead
           }
