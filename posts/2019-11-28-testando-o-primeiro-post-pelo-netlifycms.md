@@ -1,0 +1,11 @@
+---
+title: Testando o primeiro post pelo NetlifyCMS
+description: Descrição do post
+date: '192019-11-28 09:56:24'
+thumbnail: /assets/img/profile-photo.png
+category: js
+background: '#D6BA32'
+---
+# Texto do post em Markdown
+
+Olá amigo você é um amigo.
